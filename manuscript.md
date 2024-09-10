@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: This is the title
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,9 @@ keywords:
 lang: en-US
 date-meta: '2024-09-10'
 author-meta:
-- John Doe
-- Jane Roe
+- Cadyn Grafton
+- Joseph Abi-Karam
+- Thomas Lawless
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +17,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="This is the title" />
+  <meta name="citation_title" content="This is the title" />
+  <meta property="og:title" content="This is the title" />
+  <meta property="twitter:title" content="This is the title" />
   <meta name="dc.date" content="2024-09-10" />
   <meta name="citation_publication_date" content="2024-09-10" />
   <meta property="article:published_time" content="2024-09-10" />
-  <meta name="dc.modified" content="2024-09-10T17:15:23+00:00" />
-  <meta property="article:modified_time" content="2024-09-10T17:15:23+00:00" />
+  <meta name="dc.modified" content="2024-09-10T17:58:52+00:00" />
+  <meta property="article:modified_time" content="2024-09-10T17:58:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Cadyn Grafton" />
+  <meta name="citation_author_institution" content="UIUC" />
+  <meta name="citation_author" content="Joseph Abi-Karam" />
+  <meta name="citation_author" content="Thomas Lawless" />
   <link rel="canonical" href="https://uiceds.github.io/project-teama/" />
   <meta property="og:url" content="https://uiceds.github.io/project-teama/" />
   <meta property="twitter:url" content="https://uiceds.github.io/project-teama/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-teama/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/project-teama/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-teama/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-teama/v/124baa2ff6329db107260ae8826189a5fca90511/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-teama/v/124baa2ff6329db107260ae8826189a5fca90511/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-teama/v/124baa2ff6329db107260ae8826189a5fca90511/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-teama/v/b624d6e589ef083aa63ced381168e1058b173cb7/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-teama/v/b624d6e589ef083aa63ced381168e1058b173cb7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-teama/v/b624d6e589ef083aa63ced381168e1058b173cb7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/project-teama/v/124baa2ff6329db107260ae8826189a5fca90511/))
+([permalink](https://uiceds.github.io/project-teama/v/b624d6e589ef083aa63ced381168e1058b173cb7/))
 was automatically generated
-from [uiceds/project-teama@124baa2](https://github.com/uiceds/project-teama/tree/124baa2ff6329db107260ae8826189a5fca90511)
+from [uiceds/project-teama@b624d6e](https://github.com/uiceds/project-teama/tree/b624d6e589ef083aa63ced381168e1058b173cb7)
 on September 10, 2024.
 </em></small>
 
@@ -81,38 +78,36 @@ on September 10, 2024.
 
 
 
-+ **John Doe**
++ **Cadyn Grafton**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [Cadyn-Grafton](https://github.com/Cadyn-Grafton)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     UIUC
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Joseph Abi-Karam**
+  <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [jabikaram25](https://github.com/jabikaram25)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Thomas Lawless**
+  ^[✉](#correspondence)^<br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [lawlesst12](https://github.com/lawlesst12)
+    <br>
+  <small>
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/project-teama/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Thomas Lawless \<tjl5@illinois.edu\>.
 
 
 :::
