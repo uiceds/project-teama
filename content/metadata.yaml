@@ -11,13 +11,12 @@ authors:
     name: Cadyn Grafton
     initials: CG
     email: cadynjg2@illinois.edu
-    affiliations:
-      - Department of Civil & Environmental Engineering, UIUC
+    affiliations: Department of Civil & Environmental Engineering, UIUC
   - github: jabikaram25
     name: Joseph Abi-Karam
     initials: JR
     email: jane.roe@whatever.edu
-  -github: lawlesst12
+  - github: lawlesst12
    name: Thomas Lawless
    initials: TL
    email: tjl5@illinois.edu
