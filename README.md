@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/uiceds/project-teama/tree/gh-pages) branch hosts the contents of this directory at <https://uiceds.github.io/project-teama/>.
-The permalink for this webpage version is <https://uiceds.github.io/project-teama/v/124baa2ff6329db107260ae8826189a5fca90511/>.
+The permalink for this webpage version is <https://uiceds.github.io/project-teama/v/b624d6e589ef083aa63ced381168e1058b173cb7/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://uiceds.github.io/project-teama/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`124baa2ff6329db107260ae8826189a5fca90511`](https://github.com/uiceds/project-teama/commit/124baa2ff6329db107260ae8826189a5fca90511).
+[`b624d6e589ef083aa63ced381168e1058b173cb7`](https://github.com/uiceds/project-teama/commit/b624d6e589ef083aa63ced381168e1058b173cb7).
